@@ -12,7 +12,7 @@
 
 Зайдите в терминале 
 ```
-~/home/<имя папки>$ ruby magic_ball.rb
+$ ruby magic_ball.rb
 ```
 
 Задайте вопрос.
